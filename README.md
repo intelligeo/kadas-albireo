@@ -1,6 +1,6 @@
-# KADAS Albireo
+# KADAS Albireo for EMS
 
-KADAS Albireo is a specialized Geographic Information System based on [QGIS](http://qgis.org/).
+KADAS Albireo is a specialized Geographic Information System based on [QGIS](http://qgis.org/). This version adds special tool to support Emergency Management Systems.
 
 ## Special features:
 
